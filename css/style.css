@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Chewy&family=Lilita+One&family=Pacifico&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap");
+
+@import url("components/container.css");
+@import url("components/Avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css"); 
+
+body {
+	font-family: "Roboto Slob", serif; 
+	font-size: 20px;
+	margin:0px;
+}
+
+h1,h2,h3 {
+	font-family:"Playfair Display", serif;
+	font-weight: bold; 
+
+}
+
+a {
+	text-decoration: none; 
+}
